@@ -1,5 +1,7 @@
 # Investigate_a_Dataset
 
+### Notes
+* Limited rendering in `Investigate_a_Dataset.ipynb`. Plotly features can be seen with nbviewer.
+
 ### To Do
-> Limited rendering in `Investigate_a_Dataset.ipynb`. Plotly features can be seen with nbviewer.
-> choropleth doesn't have legend titles
+* Choropleth doesn't have legend titles for different categories.
