@@ -19,7 +19,7 @@ Questions to consider:
 * Which regions and countries rank highest and lowest in these categories?
 
 ### Notes
-* Limited rendering in `Investigate_a_Dataset.ipynb`. Plotly features can be seen with nbviewer here.
+* Limited rendering in `Investigate_a_Dataset.ipynb`. Plotly features can be seen with nbviewer [here](https://nbviewer.jupyter.org/github/JohnLarson775/Investigate_a_Dataset/blob/master/Investigate-a-Dataset-Project.ipynb).
 
 ### To Do
 * Choropleth doesn't have legend titles for different categories.
